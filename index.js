@@ -16,14 +16,13 @@ function getSubstring(string) {
   return string.substring(0, 10);
 }
 
-
-
 // =============================================================================
 // 3. Dada la siguiente string, usa .substr() para devolver palabra
 //    'bridge'.
 // =============================================================================
 function getSubstr(string) {
   // Aquí tu código
+  return string.substring(4, 10);
 }
 
 // =============================================================================
