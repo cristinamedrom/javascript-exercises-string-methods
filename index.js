@@ -40,6 +40,7 @@ function getUpperCase(string) {
 // =============================================================================
 function getLowerCase(string) {
   // Aquí tu código
+  return string.toLowerCase();
 }
 
 // =============================================================================
