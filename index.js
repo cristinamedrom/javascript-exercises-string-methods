@@ -104,6 +104,7 @@ function getEndsWith(string) {
 // =============================================================================
 function getIncludes(string) {
   // Aquí tu código
+  return string.includes('the');
 }
 
 // =============================================================================
