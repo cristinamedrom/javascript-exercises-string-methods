@@ -86,6 +86,7 @@ function getIndexOf(string) {
 // =============================================================================
 function getStartsWith(string) {
   // Aquí tu código
+  return string.startsWith('the');
 }
 
 // =============================================================================
