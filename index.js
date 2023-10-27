@@ -95,6 +95,7 @@ function getStartsWith(string) {
 // =============================================================================
 function getEndsWith(string) {
   // Aquí tu código
+  return string.endsWith('here');
 }
 
 // =============================================================================
