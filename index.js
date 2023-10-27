@@ -113,6 +113,7 @@ function getIncludes(string) {
 // =============================================================================
 function getConcat(string1, string2) {
   // Aquí tu código
+  return string1.concat(string2);
 }
 
 // =============================================================================
