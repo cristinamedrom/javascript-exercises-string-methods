@@ -67,6 +67,7 @@ function getSplit(string) {
 // =============================================================================
 function getReplace(string) {
   // Aquí tu código
+  return string.replace('great', 'amazing');
   
 }
 
