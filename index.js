@@ -31,6 +31,7 @@ function getSubstr(string) {
 // =============================================================================
 function getUpperCase(string) {
   // Aquí tu código
+  return string.toUpperCase();
 }
 
 // =============================================================================
