@@ -4,7 +4,7 @@
 // =============================================================================
 function getCharAt(string) {
   // Aquí tu código
-  return string.charAt(4)
+  return string.charAt(4);
 }
 
 // =============================================================================
@@ -13,7 +13,10 @@ function getCharAt(string) {
 // =============================================================================
 function getSubstring(string) {
   // Aquí tu código
+  return string.substring(0, 10);
 }
+
+
 
 // =============================================================================
 // 3. Dada la siguiente string, usa .substr() para devolver palabra
